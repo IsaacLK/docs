@@ -30,6 +30,12 @@ To use a shorter and more memorable domain for your private {% data variables.pr
 
 ## Changing the visibility of your {% data variables.product.prodname_pages %} site
 
+{% note %}
+
+**Note:** Access control for GitHub Pages sites is only available in private repositories with GitHub Enterprise Cloud.
+
+{% endnote %}
+
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
